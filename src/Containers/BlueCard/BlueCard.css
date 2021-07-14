@@ -1,0 +1,33 @@
+.blue {
+  background-color: #8bd4d6 !important;
+  padding: 50px;
+  margin-bottom: 100px !important;
+}
+.blue h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 46px;
+  line-height: 56px;
+  color: #000000;
+}
+.blue p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 31px;
+  color: #000000;
+}
+.blue .button {
+  padding: 15px 40px;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 700px) {
+  .blue .button {
+    padding: 10px 40px;
+    border-radius: 30px;
+    font-size: 10px !important;
+  }
+}

@@ -1,0 +1,23 @@
+.about__title {
+  padding-top: 200px;
+}
+.about__title h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 57px;
+  line-height: 58px;
+  /* or 101% */
+
+  color: #000000;
+}
+.about__title p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 31px;
+  /* or 153% */
+
+  color: #000000;
+}

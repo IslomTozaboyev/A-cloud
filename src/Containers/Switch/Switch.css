@@ -1,0 +1,21 @@
+.switch {
+  padding-top: 150px;
+}
+.switch h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 58px;
+  line-height: 58px;
+  color: #000000;
+}
+
+.switch .button {
+  padding: 10px 20px;
+  width: 200px;
+  background: #f7b2b7;
+  border-radius: 20px;
+  border: none;
+  color: black;
+  font-weight: bold;
+}

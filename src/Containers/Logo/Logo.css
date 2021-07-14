@@ -1,0 +1,11 @@
+.logo {
+  padding-top: 100px;
+}
+.logo .logotip h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 36px;
+  color: #000000;
+}
